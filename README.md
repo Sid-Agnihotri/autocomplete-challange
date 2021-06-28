@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In this project, React and React Hooks(useState for state management) are used. 
 
-![alt text](https://imgur.com/ZlY4Zd1)
+![alt text](https://i.imgur.com/ZlY4Zd1.png)
 
 h## Project Status
 Complete
