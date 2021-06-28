@@ -2,15 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
-In this project, React and React Hooks are used. 
-
+In this project, React and React Hooks(useState for state management) are used. 
 
 ## Project Status
-In progress
+Complete
 
 ## To run this project:-
 
-Download or clone the project. open your command promot and navigate to the project directory. 
+Download or clone the project. Open your command prompt and navigate to the project directory. 
 
 Follow the script mentioned below- 
 ### `npm install`
