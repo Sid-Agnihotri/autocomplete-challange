@@ -6,7 +6,8 @@ In this project, React and React Hooks(useState for state management) are used.
 
 ![alt text](https://i.imgur.com/ZlY4Zd1.png)
 
-h## Project Status
+
+## Project Status
 Complete
 
 ## To run this project:-
