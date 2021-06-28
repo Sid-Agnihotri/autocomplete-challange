@@ -43,15 +43,20 @@
 	height: 250px;
 	padding: 0;
 	margin: 0px 0 10px 20px;
-	width: 80%;
+	width: 95%;
+	overflow: auto;
 }
 .output-item {
 	border-bottom: 1px solid rgb(238, 238, 238);
 	width: 450px;
-	height: 35px;
+	margin-top: 10px;
 	padding-top: 3px;
 	color: rgb(100, 100, 100);
 }
+.books-list p {
+	margin: 0;
+}
+
 .error-msg {
 	font-size: 15px !important;
 }

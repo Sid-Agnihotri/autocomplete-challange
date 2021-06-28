@@ -17,8 +17,8 @@ const Main = () => {
 
 	return (
 		<div className='main'>
+			<Search arr={books} inputIteam={booksSearch} />
 			<Search arr={cities} inputIteam={citiesSerch} />
-			<Search arr={titles} inputIteam={booksSearch} />
 		</div>
 	);
 };

@@ -1,0 +1,9 @@
+/** @format */
+
+.heading {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 30px;
+	margin-bottom: 20px;
+}

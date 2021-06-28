@@ -23,6 +23,12 @@ export const cities = [
 	"thunder bay",
 	"tokyo",
 	"tulsa",
+	"santiago",
+	"santiago",
+	"santiago",
+	"santiago",
+	"santiago",
+	"santiago",
 ];
 
 export const books = [
