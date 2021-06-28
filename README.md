@@ -6,7 +6,7 @@ In this project, React and React Hooks are used.
 
 
 ## Project Status
-complete
+In progress
 
 ## To run this project:-
 
