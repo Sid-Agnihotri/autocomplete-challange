@@ -30,7 +30,7 @@ export const cities = [
 	"santiago",
 	"santiago",
 ];
-
+// Data is manipulated to show the scroll bar incase there is more output.
 export const books = [
 	{
 		title: "Don Quixote",

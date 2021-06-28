@@ -18,7 +18,6 @@ const Search = ({ arr, inputIteam }) => {
 		let finalArray = arr
 
 			.filter((val) => {
-				console.log(typeof val);
 				if (input.toLowerCase().length >= 3) {
 					if (typeof val == "object") {
 						return val.title.toLowerCase().includes(input.toLowerCase());
