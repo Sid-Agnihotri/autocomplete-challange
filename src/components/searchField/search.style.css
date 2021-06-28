@@ -1,0 +1,60 @@
+/** @format */
+
+.search-dropdown {
+	padding: 20px;
+
+	height: 400px;
+}
+.search-dropdown h1 {
+	text-align: center;
+}
+.search-bar-container {
+	border-color: rgba(223, 225, 229, 0);
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+	background-color: white;
+	border-radius: 13px;
+	box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+}
+/* input */
+.input-container {
+	display: flex;
+	width: 500px;
+	height: 70px;
+	font-size: 16px;
+}
+.input-field {
+	align-items: center;
+	margin: 30px 0 10px 20px;
+	font-size: 20px;
+	width: 450px;
+	border: none;
+	border-bottom: 1px solid gray;
+	background-color: transparent;
+	color: rgb(100, 100, 100);
+}
+.input-field:focus {
+	outline: none;
+}
+
+.dropdown-list {
+	list-style-type: none;
+	font-size: 20px;
+	height: 250px;
+	padding: 0;
+	margin: 0px 0 10px 20px;
+	width: 80%;
+}
+.output-item {
+	border-bottom: 1px solid rgb(238, 238, 238);
+	width: 450px;
+	height: 35px;
+	padding-top: 3px;
+	color: rgb(100, 100, 100);
+}
+.error-msg {
+	font-size: 15px !important;
+}
+/* .dropdown-list li:last-child {
+	border-bottom: none;
+} */
